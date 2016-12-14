@@ -8,12 +8,37 @@ Xen related links
 
 Links
 =====
+How to auto start XEN VMs after reboot of DOM 0
+https://www.novell.com/support/kb/doc.php?id=3466408
+
+Introduction to Xen 3.x
+https://wiki.xenproject.org/wiki/Introduction_to_Xen_3.x
+
+Managing guests with virsh
+virsh is a command line interface tool for managing guests and the hypervisor.
+https://www.centos.org/docs/5/html/5.2/Virtualization/chap-Virtualization-Managing_guests_with_virsh.html
+
+The Xen Hypervisor
+http://www.informit.com/articles/article.aspx?p=1187966&seqNum=6
+
+The xm command line interface
+https://www.centos.org/docs/5/html/5.2/Virtualization/sect-Virtualization-Commands_for_Red_Hat_Virtualization-The_xm_command_line_interface.html
+
 Xen
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Xen
+
+Xen Cheat Sheet
+http://lzone.de/cheat-sheet/Xen
+
+Xen FAQ Design and in Depth
+https://wiki.xenproject.org/wiki/Xen_FAQ_Design_and_in_Depth#How_does_Xen_process_System_Calls_on_para-virtualized_guest.3F
 
 Xen Project
 http://www.xenproject.org/
 
 Xen Project Beginners Guide
 http://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide
+
+virsh the command line interface tool for virtualization
+https://www.centos.org/docs/5/html/5.2/Virtualization/sect-Virtualization-Commands_for_Red_Hat_Virtualization-virsh_the_command_line_interface_tool_for_virtualization.html
