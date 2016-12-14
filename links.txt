@@ -1,0 +1,19 @@
+links.txt
+Created Tue Jul 21 09:13:37 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Xen related links
+
+
+Links
+=====
+Xen
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Xen
+
+Xen Project
+http://www.xenproject.org/
+
+Xen Project Beginners Guide
+http://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide
